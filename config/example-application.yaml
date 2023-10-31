@@ -1,0 +1,5 @@
+ynab:
+  mappings:
+    Spar Aarslev Aarslev: Frequent/Groceries
+    .*Aldi .*: Frequent/Groceries
+    .*Restaurant.*: Frequent/Eating Out

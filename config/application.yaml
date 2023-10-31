@@ -1,0 +1,52 @@
+ynab:
+  mappings:
+    Spar Aarslev Aarslev: Frequent/Groceries
+    .*Aldi .*: Frequent/Groceries
+    .*Restaurant.*: Frequent/Eating Out
+    Bygma Ringe, Ringe: Renovation/Stald
+    Chatgpt Subscription.*: Bills/Software
+    Staldgulv Op: Renovation/Stald
+    .*Umuts Pizza.*: Frequent/Eating Out
+    Tv2 Dk.*: Bills/Streaming Services
+    Apple.com/Bill.*: Bills/Streaming Services
+    Amazon Prime*.*: Bills/Streaming Services
+    Ringe Superbrugsen.*|Rema 1000.*|.*Migros.*: Frequent/Groceries
+    Frisor R/.*: Quality of Life/Health & Wellness
+    Synci.io.*: Bills/Software
+    Midjourney Inc..*: Bills/Software
+    Biltema Odense.*: Goals/Home Improvement
+    Sport24.dk.*: Non-Monthly/Clothes
+    .*Bestseller.*: Non-Monthly/Clothes
+    .*Zizzi.*: Non-Monthly/Clothes
+    .*Billig-Arbejdstoj.*: Non-Monthly/Clothes
+    .*Nordisk Energy.*: Bills/Electric
+    'MobilePay: Christian Hoffmann Nielse': Renovation/Stald
+    Ringe Maskinforretning.*: Renovation/Home Maintenance
+    Bauhaus.*: Renovation/Home Maintenance
+    .*Dyrenes Verden.*: Non-Monthly/Animals
+    .* Apotek.*: Non-Monthly/Medical
+    Bilka Scan & Go.*: Frequent/Groceries
+    Bilka.*: Frequent/Groceries
+    Gjensidige Forsikring.*: Frequent/Insurance
+    .*Bilhuset Thybo.*: Non-Monthly/Car
+    .*Mc ?[dD]onalds.*: Frequent/Eating Out
+    .*Mofibo Books.*: Bills/Streaming Services
+    "Idrætscenter Midt.*": Quality of Life/Health & Wellness
+    Harald Nyborg.*: Renovation/Home Maintenance
+    .*Bygma.*: Renovation/Stald
+    "Bog & Idé/Legekæde.*": Non-Monthly/Gifts
+    "Udenlandsk Overførsel Fra Red Hat.*": 'Internal Master Category/Inflow: Ready to Assign'
+    Telia Danmark.*: Bills/Cellphone
+    Home Assistant Cloud.*: Bills/Software
+    Hiper.*: Bills/Internet
+    Zoo-Odense.*: Quality of Life/Entertainment
+    Hundens Oase.*: Non-Monthly/Animals
+    Microsoft\*Ultimate.*: Bills/Streaming Services
+    .*Ikea .*: Goals/Home Improvement
+    .*[Hh]orse.*: Non-Monthly/Animals
+    .*[Hh]este.*: Non-Monthly/Animals
+    .*Zalando.*|.*Toejeksperten.*: Non-Monthly/Clothes
+    .*Bageri.*|.*Thai Wok Express.*|.*Mammas.*|.*Bar Sushi.*: Frequent/Eating Out
+    .*Swiss Air.*|.*Sas.*|.*D[sS][bB].*|.*Taxi.*|.*Ramen Air.*|.*Nmbs Bru Nat Luchthaven.*: Frequent/Transportation
+    .*Klinik For Fodterapi.*|.*Sygeforsikringen.*: Non-Monthly/Medical
+    .*Education\.com.*: Goals/Education
